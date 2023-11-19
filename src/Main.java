@@ -16,6 +16,8 @@ public class Main {
         System.out.println(getAverageSalary(employess));
         System.out.println();
         employAlLs(employess);
+        System.out.println();
+
     }
 
     private static void employAlL(Employee[] employess) {
@@ -63,7 +65,8 @@ public class Main {
             System.out.println(employee.getName());
         }
     }
-}
+        }
+
 
 
 
